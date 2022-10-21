@@ -34,5 +34,3 @@ PREFIX=t!
  (New Features, Bug fixes, Testing)
  (Music commands)
  (Translation improvements)
-
-\n anal \n boobs \n hentai \n cum \n blowjob \n ero \n erofeet \n geet \n eroneko \n eroyuri \n foxgirl \n femfom \n futa \n classic \n fuck
