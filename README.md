@@ -1,5 +1,3 @@
-<img width="531" height="213" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Toma awa Logo" src="https://cdn.discordapp.com/attachments/987833585480388649/990378182299488317/Tomaawa.jpg">  
-<img width="531" height="213" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Toma awa Bot Logo" src="https://cdn.discordapp.com/attachments/987833585480388649/990377804178792548/Tomaawita.jpg">  
 # Toma awa
 
 > Toma awa have almost everything - Fun, Images, Economy and NSFW.
@@ -9,7 +7,7 @@
 
 ## Invite
 
-Go to [this link](https://discord.com/api/oauth2/authorize?client_id=905121114085269594&permissions=8&scope=bot) and add the bot (this requires `ADMINISTRATOR` permission) to your server.
+Go to [this link]() and add the bot (this requires `ADMINISTRATOR` permission) to your server.
  
 
 ```
@@ -29,7 +27,7 @@ PREFIX=t!
 
 
 ## Contributors
-- [Toma awa#7593] 
+- [Toma awa#4877] 
  (Bug fixes, Command handler improvements, Testing, New features)
  (New Features, Bug fixes, Testing)
  (Music commands)
